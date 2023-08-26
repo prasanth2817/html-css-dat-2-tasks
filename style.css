@@ -7,7 +7,7 @@
 .myname{
     text-align: right;
     font-size: xx-large;
-    color: aliceblue;
+    color: red;
     /* display: flex;
     flex-direction: row-reverse;
     flex-wrap: wrap;
@@ -26,7 +26,7 @@
     background-color: deeppink;
 }
 .label{
-    color: antiquewhite;
+    color:darkcyan;
     justify-content: center;
 }
 /* div{
